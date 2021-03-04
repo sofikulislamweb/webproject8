@@ -1,0 +1,174 @@
+@media(max-width: 1200px){
+.home-text h1 {
+    font-size: 35px;
+    line-height: 50px;
+    width: 297px;
+}
+.home-text p {
+    font-size: 14px;
+    line-height: 24px;
+    width: 349px;
+ }
+ .home-text .button {
+    padding: 6px 19px !important;
+   
+}
+.feature-box h3 {
+    font-size: 20px;
+ }
+
+ .feature-box p{
+ 	font-size: 14px;
+ }
+
+ .feature-box {
+    padding: 40px 0;
+   
+}
+.blog-area h3 {
+    font-size: 20px;
+   }
+   .blog-area span{
+   	font-size: 14px;
+   }
+ .blog-area .btn {
+    font-size: 14px;
+}
+.home{
+	padding:30px 0 40px;
+}
+}
+
+@media(max-width: 991px){
+.home-text span {
+    font-size: 14px;
+}
+
+.home-text h1 {
+    font-size: 28px;
+    line-height: 37px;
+    width: 237px;
+}
+
+.home-text p {
+    font-size: 13px;
+    line-height: 24px;
+    width: 331px;
+}
+.home-text .button {
+    padding: 5px 19px !important;
+    font-size: 14px;
+}
+.feature-box h3 {
+    font-size: 18px;
+}
+.feature-box p {
+    font-size: 12px;
+}
+.feature-box {
+    padding: 20px 0;
+}
+.blog-area {
+    margin-top: 50px;
+}
+.heading h2 {
+    padding: 0px 0;
+ }
+ .test-img img{
+	max-width:180px;
+	margin:20px auto 25px;
+}
+.test-text p {
+    line-height: 25px;
+    font-size: 15px;
+ 
+}
+.home{
+	padding:30px 0 40px;
+}
+}
+
+
+@media(max-width: 767px){
+.home-text h1 {
+    font-size: 26px;
+    line-height: 35px;
+    width: 230px;
+}
+.home-text p {
+    line-height: 22px;
+    width: 260px;
+}
+
+.home{
+	padding:30px 0 40px;
+}
+.feature-box {
+    margin-top: 27px;
+}
+
+.heading h2 {
+    font-size: 30px;
+ }
+ .blog-area {
+    margin: 25px auto;
+    max-width: 380px;
+    
+}
+.heading h2 {
+    padding: 15px;
+}
+.test-text p {
+    text-align: center;
+}
+.footer p{
+	text-align: center;
+}
+.footer-menu{
+    text-align: center;
+    margin-top:50px;
+}
+
+}
+
+
+@media(max-width: 577px){
+.home-text span {
+    text-align: center;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.home-text h1 {
+    width: 100%;
+    text-align: center;
+}
+.home-text p {
+    width: 75%;
+    margin: auto;
+    text-align: center;
+    margin-bottom:15px;
+}
+
+.home-text{
+	text-align: center;
+}
+
+.home-img img{
+     width: 350px;
+     margin: 40px auto 10px;
+     display: block;
+}
+.feature-box {
+    max-width:250px;
+    padding: 40px 0;
+    margin:20px auto ;
+}
+
+.heading h2 {
+    font-size: 30px;
+}
+
+
+
+}
